@@ -1,0 +1,118 @@
+
+
+body { background-color: black;
+		text-align: center; 
+		font-family: Arial, Verdana, sans-serif;
+		padding:0;
+		margin:0;
+		}
+		
+#wrapper { border-width:5px; 
+			border-style:ridge; 
+			border-color:#d9b182;
+            min-width:700px;
+			width:80%;
+			margin-left:auto;
+			margin-right:auto;
+			margin-top:20px;
+			margin-bottom:20px;
+			text-align:center;
+			background-image:url("picts/main/web.gif");
+			box-shadow: 10px 10px 20px rgb(144, 140, 155);
+			
+			}
+			
+h1 { background-color:none; 
+	color: whitesmoke; 
+	text-align: center;
+	border-radius:5px;
+	margin:5px;
+	padding:5px;
+	}
+		
+#nav { 
+		font-size: 1.25em;
+		overflow:hidden;
+		background-color:#333;
+		}
+
+#nav a {float:right;
+	color:#f2f2f2;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+}
+
+#nav a:hover {background-color:#d9b182;
+	color:black;
+}
+
+nav a.active {background-color:#d9b182;
+}
+
+
+.content {margin-left:170px;
+		  margin-right: 10px;
+		  margin-top:10px;
+		  margin-bottom:20px;
+		  border-style:ridge;
+		  border-color:#d9b182;
+		  border-width:2px;
+		  border-radius:5px;
+		  color:whitesmoke;
+		  text-align:center;
+		  padding-top:20px;
+		  padding-bottom:20px;
+		 
+		  }
+				
+#footer { color: #d9b182; 
+			font-size: .75em;
+			font-style: italic;
+			float:clear;
+			padding:5px;
+			}
+			
+
+
+
+.pictureborder {
+				padding:5px;
+				border-width:5px; 
+				border-style:ridge; 
+				border-color:#d9b182;
+				margin:10px;
+				background-color:black;
+				
+				
+				}
+
+.quote {border:0;
+           padding: 10px;
+           font-size: .75em;
+           font-style: italic;
+		   width:50%;
+		   text-align:center;}
+
+ul {margin:0px; 
+	padding:0px; 
+	list-style-type:none;}
+
+.eventpic {height:375px; 
+	width:500px; 
+	border-color:#d9b182; 			
+	border-style:ridge; 
+	border-width:5px; }
+
+.bio {background-color:black;
+		width: 80%;
+	  text-align: center; }
+
+#borderBio {border-width:5px; 
+		border-color:d#d9b182; 
+		border-style:ridge; 
+		}
+
+hr {color:#d9b182
+}
+
