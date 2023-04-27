@@ -11,6 +11,7 @@ body { background-color: black;
 			border-style:ridge; 
 			border-color:#d9b182;
             min-width:700px;
+			min-height:500px;
 			width:80%;
 			margin-left:auto;
 			margin-right:auto;
