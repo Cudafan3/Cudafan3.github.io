@@ -52,7 +52,7 @@ nav a.active {background-color:#d9b182;
 }
 
 
-.content {margin-left:170px;
+.content {margin-left:10px;
 		  margin-right: 10px;
 		  margin-top:10px;
 		  margin-bottom:20px;
@@ -99,21 +99,18 @@ ul {margin:0px;
 	padding:0px; 
 	list-style-type:none;}
 
-.eventpic {height:375px; 
-	width:500px; 
-	border-color:#d9b182; 			
-	border-style:ridge; 
-	border-width:5px; }
 
 .bio {background-color:black;
-		width: 80%;
-	  text-align: center; }
+	width:auto;
+	text-align:center;
+	margin-bottom:50px;
+}
+
 
 #borderBio {border-width:5px; 
 		border-color:d#d9b182; 
 		border-style:ridge; 
 		}
 
-hr {color:#d9b182
-}
+
 
