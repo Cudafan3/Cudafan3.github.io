@@ -1,6 +1,7 @@
 
 
 body { background-color: black;
+		background-image:url("picts/main/web.gif");
 		text-align: center; 
 		font-family: Arial, Verdana, sans-serif;
 		padding:0;
@@ -8,6 +9,7 @@ body { background-color: black;
 		}
 		
 #wrapper { border-width:5px; 
+			background-color: black;
 			border-style:ridge; 
 			border-color:#d9b182;
             min-width:700px;
@@ -18,7 +20,7 @@ body { background-color: black;
 			margin-top:20px;
 			margin-bottom:20px;
 			text-align:center;
-			background-image:url("picts/main/web.gif");
+			
 			box-shadow: 10px 10px 20px rgb(144, 140, 155);
 			
 			}
