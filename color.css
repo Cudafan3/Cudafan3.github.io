@@ -70,7 +70,8 @@ nav a.active {background-color:#d9b182;
 		  height:auto;
 		  }
 				
-#footer { color: #d9b182; 
+#footer { color: #d9b182;
+			background-color:black; 
 			font-size: .75em;
 			font-style: italic;
 			float:clear;
